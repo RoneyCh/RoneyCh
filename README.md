@@ -15,3 +15,6 @@
 </div>
 
 
+![snake gif](https://github.com/RoneyCh/RoneyCh/blob/output/github-contribution-grid-snake.gif)
+
+

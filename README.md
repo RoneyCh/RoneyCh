@@ -3,8 +3,8 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://br.linkedin.com/in/roneych)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/roneychaves/)
 
-![RoneyCh GitHub stats](https://github-readme-stats.vercel.app/api?username=RoneyCh&theme=dracula&show_icons=true)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RoneyCh&langs_count=5&hide=html,css&theme=dracula&layout=compact)](https://github.com/RoneyCh/github-readme-stats)
+![RoneyCh GitHub stats](https://github-readme-stats-sigma-five.vercel.app/api?username=RoneyCh&theme=dracula&show_icons=true)
+[![Top Langs](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=RoneyCh&langs_count=5&hide=html,css&theme=dracula&layout=compact)](https://github.com/RoneyCh/github-readme-stats)
 
 ## Most used technologies
   <a href="https://github.com/RoneyCh/github-readme-stats">

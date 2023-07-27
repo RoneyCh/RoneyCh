@@ -16,8 +16,3 @@
     <img align="center" alt="react-native" src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB">
   </a>
 
-### Contribuições 2022
-
-![snake gif](https://github.com/RoneyCh/RoneyCh/blob/output/github-contribution-grid-snake.gif)
-
-
